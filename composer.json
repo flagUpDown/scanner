@@ -1,0 +1,22 @@
+{
+    "name": "flagupdown/scanner",
+    "description": "a tool of scanning functions in PHP files",
+    "type": "library",
+    "authors": [
+        {
+            "name": "fengjun",
+            "email": "1120642944@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "^2.14"
+    },
+    "autoload": {
+        "psr-4": {
+            "FlagUpDown\\": "src/"
+        }
+    }
+}
