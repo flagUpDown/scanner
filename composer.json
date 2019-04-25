@@ -2,6 +2,7 @@
     "name": "flagupdown/scanner",
     "description": "a tool of scanning functions in PHP files",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "fengjun",
